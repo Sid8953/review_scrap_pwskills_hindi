@@ -1,0 +1,68 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [12/Mar/2023 01:09:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [12/Mar/2023 01:09:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [12/Mar/2023 01:09:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone12pro', 'Name': 'Vinit Kar', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'I have been using iPhones for years, but the fast charging and battery on this one is brilliant. Like i always say, iPhone is more of a jewellery than a phone. But this one has some power-packed features and an awesome camera. So if you can afford it, buy it!'}, {'Product': 'iphone12pro', 'Name': 'Rahul  Meena', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I like the most in this phone:-1. I like the size of this phone because it is easy to hold.2. The camera quality of this phone is admirable. 3. Battery backup is good.4. The new design and colour  of this phone also a plus point of its beauty.5. These  points are my personal which i like most in this phone.'}, {'Product': 'iphone12pro', 'Name': 'Nami Hathishah', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'One of the best looking phone in the market right now with a decent performance jump from 11 pro. Camera is excellent and the display is quite responsive and sharp. Only issue is it does not have a higher refresh rate and the battery life is average.'}, {'Product': 'iphone12pro', 'Name': 'Rajesh Jena', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'I have upgraded from Android to iOS for the first time with the IPhone 12 Pro. And the experience is very much satisfactory. The new A14 bionic processor is very fast. The boxy design is what I liked the most. The camera and display are top notch. Night mode photography is excellent. Worth upgrading from Android to iOS .'}, {'Product': 'iphone12pro', 'Name': 'Lee Phela', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Awesome!Just made an upgrade from X, worth every single penny spent on it, the camera is just too superb, be it the selfie cam or the main rear cam, the goodness it takes the picture is just beyond words, no smart phone can beat it atm! However, the battery life tends to be on the shorter side, that’s the only con that I can’t think up of now,'}, {'Product': 'iphone12pro', 'Name': 'Rajkumar tiwari', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'indeed a great phone feels premium in hand but battery life is low'}, {'Product': 'iphone12pro', 'Name': 'Kirti Yadav', 'Rating': '3', 'CommentHead': 'Nice', 'Comment': 'Its just Perfect . Prices are a bit high .'}, {'Product': 'iphone12pro', 'Name': 'Tushar Saini', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'The camera is mind-blowing I love it 😘'}, {'Product': 'iphone12pro', 'Name': 'Aasheesh Vats', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'A masterpiece to cherish.'}, {'Product': 'iphone12pro', 'Name': 'Salman Rahman', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'This one of the best iPhone ever built, though battery backup isn’t good. But the user experience is brilliant.Upgraded from 11 Pro.'}, {'Product': 'iphone12pro', 'Name': 'Salman Rahman', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'This one of the best iPhone ever built, though battery backup isn’t good. But the user experience is brilliant.Upgraded from 11 Pro.'}]
+INFO:werkzeug:172.18.0.2 - - [12/Mar/2023 01:09:54] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [12/Mar/2023 01:09:55] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [12/Mar/2023 01:09:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result [{'Product': 'smartwatch', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Aswm product 🖤Display - soft touch displayDesign - fabulousActivity tracking is fast2k for AI enabled calling watch...best in market ..Must buy..'}, {'Product': 'smartwatch', 'Name': 'Pooja  Pooja', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Good'}, {'Product': 'smartwatch', 'Name': 'Aviraj  Mishra', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': "This is a very nice watch ⌚️...Its look is very good to see.Its display quality is very good.its battery lasts a long time.The watch is very stylish and light weight,,,,easy fast charging,,,calling function is great,,,Can't expect more with the amount we are paying."}]
+INFO:werkzeug:172.18.0.2 - - [12/Mar/2023 01:10:17] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [12/Mar/2023 01:10:17] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [12/Mar/2023 01:10:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'samsungs21', 'Name': 'Udit Joshi', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Reviewing after one month use Nice and handy phone with 6.4 displayCompact size.Camera 📷 is mind blowing 🔥🔥Battery life is okDisplay is amazing with victous glass protection which is best in marketFor normal use its a best phone with amazing features and customisation'}, {'Product': 'samsungs21', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Using since last 10 days and super happy with the purchase, also prompt delivery by flipkart,what an amazing camera,display and lovely one UI,received immediate android 13 one UI 5 update,overall happy and satisfied with my purchase.'}, {'Product': 'samsungs21', 'Name': 'Sandeep  Rai', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'It is a great mobile, its camera is exactly like a flagship, can not get a better mobile in this range.'}, {'Product': 'samsungs21', 'Name': 'Srinu  Karnati ', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'I personally buy this phone for camera it is good but sometimes feeling need more optimisation and battery performance also good when we get refresh rate at standard it will go for long day 120 hz can drain ur battery easily and display is also very good sound was dolby atmos was very good soo finally experiencing flagship samsung mobile haptic feedback is also nice now slowly felling love with this mobile'}, {'Product': 'samsungs21', 'Name': 'Prashanth  G', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me."}, {'Product': 'samsungs21', 'Name': 'Naman Gandhi', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': "It's been 3-4 months using this phone. [UPDATED]Pros.1. I've bought 128GB variant out of that 128GB, 122GB is occupied by Apps, Videos, Photos etc... still 0% lagg. Working like a brand new.2. Unbeatable camera at this price, even some people ask are these pictures clikcked from DSLR. Telephoto lens is capturing great pictures even in low light.3. Good quality of display.4. Feels premium as it's very sleek and light weight.5. Fast charging, charges the phone in 1 hour 10 minutes.6. Ra..."}, {'Product': 'samsungs21', 'Name': 'Vipul pithva', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Review after using one month.Just one word, Outstanding. What a masterpiece by samsung. If you want to get premium phone under 50k Just go for it without any doubt. It clicks wonderful photos,runs smooth while playing games,no heat issue. Feels good in hand. Front cam is also awesome. Thank you flip kart for fast delivery.'}, {'Product': 'samsungs21', 'Name': 'Arpana  Pati', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Very nice looking 👌 Very good camera Performance is good combination of exynosBattery is slightly better Yes it is worth for money'}, {'Product': 'samsungs21', 'Name': 'Shubham Pathak', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': "Very good phone with excellent camera and excellent display, I was bit scared of its network  reception but it warks like charm i'm continue getting 4g+ on my device with good speed..battery  could be better but u can get 6.5+ hr SOT easily with some customization .."}, {'Product': 'samsungs21', 'Name': 'Sonu Kumar', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Wonderful cameras.. performance is also good..great display..battery backup is average.. great phone if you love photography, watching videos and scrolling social media.. you will get 4 years of Android update and 5 years of security update..great deal overall but not recommended for heavy gamers..'}, {'Product': 'samsungs21', 'Name': 'Sonu Kumar', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Wonderful cameras.. performance is also good..great display..battery backup is average.. great phone if you love photography, watching videos and scrolling social media.. you will get 4 years of Android update and 5 years of security update..great deal overall but not recommended for heavy gamers..'}]
+INFO:werkzeug:172.18.0.2 - - [12/Mar/2023 01:10:41] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [12/Mar/2023 01:10:41] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [12/Mar/2023 01:10:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
